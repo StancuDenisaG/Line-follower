@@ -17,7 +17,10 @@ The robot is able to follow the line using the sensor and the PID controller use
 * Wires and resistors per logic
 
 ## Setup
+![line_follower](https://user-images.githubusercontent.com/101021088/213470456-76a49efd-f366-4837-9d6e-13b11fad9d87.jpeg)
+
 
 ## Video
+https://youtube.com/shorts/LlIahX-9zR4?feature=share
 
 
