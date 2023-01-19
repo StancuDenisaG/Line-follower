@@ -1,6 +1,6 @@
 # Line-follower
 
-##Task requirement
+## Task requirement
 The goal of this project is to construct a Line Follower Robot that uses a PID controller and has automatic calibration. The robot must be able to complete the designated circuit in a maximum of 35 seconds, while maintaining precision and efficiency in its line following performance.
 
 ## How it works
