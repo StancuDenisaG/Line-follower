@@ -1,4 +1,6 @@
 # Line-follower
+## The navigator
+
 Link to the collegue's Git Repository: https://github.com/Apelia-Ion/Line-Follower
 
 ## Task requirement
